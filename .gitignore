@@ -1,0 +1,17 @@
+
+/**/netcoreapp3.0/*
+!/**/netcoreapp3.0/database.json
+/**/obj/*
+/**/*vs/*
+#/**/Debug/*
+*.json
+!database.json
+*.filters
+*.user
+*.vcxproj
+*.docx
+*.rar
+*.zip
+*.txt
+SecretKey.cs
+/**/SecretKey.cs

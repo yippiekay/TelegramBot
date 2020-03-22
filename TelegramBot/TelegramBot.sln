@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelegramBot", "TelegramBot\TelegramBot.csproj", "{1620AF3E-0A71-4C44-AF0B-C5FBBAE13915}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24AF0D4F-7CAA-40A6-A905-D0AF5547BA64}"
+	ProjectSection(SolutionItems) = preProject
+		TelegramBot\bin\Debug\netcoreapp3.0\commandToAnswer.json = TelegramBot\bin\Debug\netcoreapp3.0\commandToAnswer.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1620AF3E-0A71-4C44-AF0B-C5FBBAE13915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1620AF3E-0A71-4C44-AF0B-C5FBBAE13915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1620AF3E-0A71-4C44-AF0B-C5FBBAE13915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1620AF3E-0A71-4C44-AF0B-C5FBBAE13915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452590C6-E9EF-4247-9BE7-AB239E8DB131}
+	EndGlobalSection
+EndGlobal
